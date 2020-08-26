@@ -1,0 +1,1 @@
+Apenas um teste para saber se a anta por tras deste teclado sabe como criar um repositorio no github e conseguir manusear o mesmo sem mandar um comando e assim perder todos os arquivos que possuia no seu repositorio =D
